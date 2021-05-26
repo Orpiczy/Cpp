@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lukas/Exercism/cpp/queen-attack/queen_attack.cpp
+queen_attack.h
+C:/Users/lukas/Exercism/cpp/queen-attack/queen_attack.h
+
+C:/Users/lukas/Exercism/cpp/queen-attack/queen_attack.h
+utility
+-
+stdexcept
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lukas/Exercism/cpp/all-your-base/all_your_base.cpp
+vector
+-
+cmath
+-
+all_your_base.h
+C:/Users/lukas/Exercism/cpp/all-your-base/all_your_base.h
+list
+-
+stdexcept
+-
+
+C:/Users/lukas/Exercism/cpp/all-your-base/all_your_base.h
+vector
+-
+

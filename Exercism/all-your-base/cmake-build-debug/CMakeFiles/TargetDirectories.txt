@@ -1,0 +1,4 @@
+C:/Users/lukas/Exercism/cpp/all-your-base/cmake-build-debug/CMakeFiles/all-your-base.dir
+C:/Users/lukas/Exercism/cpp/all-your-base/cmake-build-debug/CMakeFiles/test_all-your-base.dir
+C:/Users/lukas/Exercism/cpp/all-your-base/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/Exercism/cpp/all-your-base/cmake-build-debug/CMakeFiles/rebuild_cache.dir

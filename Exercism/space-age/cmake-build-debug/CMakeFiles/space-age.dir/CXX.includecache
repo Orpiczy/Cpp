@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lukas/Exercism/cpp/space-age/space_age.cpp
+space_age.h
+C:/Users/lukas/Exercism/cpp/space-age/space_age.h
+
+C:/Users/lukas/Exercism/cpp/space-age/space_age.h
+math.h
+-
+

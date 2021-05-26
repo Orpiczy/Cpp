@@ -1,0 +1,4 @@
+C:/Users/lukas/Exercism/cpp/space-age/cmake-build-debug/CMakeFiles/space-age.dir
+C:/Users/lukas/Exercism/cpp/space-age/cmake-build-debug/CMakeFiles/test_space-age.dir
+C:/Users/lukas/Exercism/cpp/space-age/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/Exercism/cpp/space-age/cmake-build-debug/CMakeFiles/rebuild_cache.dir

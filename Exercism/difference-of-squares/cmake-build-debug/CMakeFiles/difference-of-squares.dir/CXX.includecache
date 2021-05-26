@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lukas/Exercism/cpp/difference-of-squares/difference_of_squares.cpp
+difference_of_squares.h
+C:/Users/lukas/Exercism/cpp/difference-of-squares/difference_of_squares.h
+math.h
+-
+stdexcept
+-
+iostream
+-
+
+C:/Users/lukas/Exercism/cpp/difference-of-squares/difference_of_squares.h
+

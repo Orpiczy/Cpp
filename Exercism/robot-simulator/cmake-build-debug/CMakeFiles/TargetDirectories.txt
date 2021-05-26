@@ -1,0 +1,4 @@
+C:/Users/lukas/Exercism/cpp/robot-simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/Exercism/cpp/robot-simulator/cmake-build-debug/CMakeFiles/robot-simulator.dir
+C:/Users/lukas/Exercism/cpp/robot-simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lukas/Exercism/cpp/robot-simulator/cmake-build-debug/CMakeFiles/test_robot-simulator.dir

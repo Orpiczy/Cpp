@@ -1,0 +1,4 @@
+C:/Users/lukas/Exercism/cpp/reverse-string/cmake-build-debug/CMakeFiles/reverse-string.dir
+C:/Users/lukas/Exercism/cpp/reverse-string/cmake-build-debug/CMakeFiles/test_reverse-string.dir
+C:/Users/lukas/Exercism/cpp/reverse-string/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/Exercism/cpp/reverse-string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
